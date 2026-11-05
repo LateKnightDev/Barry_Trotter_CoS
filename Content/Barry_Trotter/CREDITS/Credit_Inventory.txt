@@ -1,0 +1,4 @@
+I Followed along the following tutorial to implement the beginning of an inventory system. Inventory management, and crafting where later implemented on my own.
+
+Unreal University - How to Make an Inventory System in UE5 (Store, Stack, and Drop Items):
+https://www.youtube.com/watch?v=b2atcZWYi3E
